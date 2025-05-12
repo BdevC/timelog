@@ -1,20 +1,18 @@
 ### About the Project ###
-This is a demo application to demonstrate fullstack development capabilities. 
-The aplication consists of the following microservices
-- front-end : a UI to allow the user to use the application
-- authentication: Using google and the recommended approach on next.js
+This is a demo application to demonstrate full-stack development capabilities. 
+The application consists of the following microservices
+- Front-end: a UI to allow the user to use the application
+- authentication: Using Google and the recommended approach on Next.js
 - logger: A passthrough to log user data separately from the front-end
-- Visualizer: a way to present a users information in graph form
+- This is a work in progress
 
 The following technologies are featured
-- Kubernetes - A cluster for mange the services
+- Kubernetes - A cluster to manage the services
 - Scaffold - as an easy way to manage and develop with Kubernetes
-- Kafka to manage asyncronous communication
+- Kafka to manage asynchronous communication
 - Docker to containerize the microservices
 - Mongo to store the user data being logged
 - Sign in with Google for Authentication
-- some tool to visualize data for reports
-
 
 
 ### Building Front-end ###
