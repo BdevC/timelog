@@ -4,7 +4,9 @@ The application consists of the following microservices
 - Front-end: a UI to allow the user to use the application
 - authentication: Using Google and the recommended approach on Next.js
 - logger: A passthrough to log user data separately from the front-end
+Things to know...
 - This is a work in progress
+- I'm very used to Gitlab CI, but new to Github Actions
 
 The following technologies are featured
 - Kubernetes - A cluster to manage the services
