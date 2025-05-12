@@ -2,8 +2,8 @@
 This is a demo application to demonstrate full-stack development capabilities. 
 The application consists of the following microservices
 - Front-end: a UI to allow the user to use the application
-- authentication: Using Google and the recommended approach on Next.js
-- logger: A passthrough to log user data separately from the front-end
+- Authentication: Using Google and the recommended approach on Next.js
+- Logger: A passthrough to MongoDB to log user data separately from the front-end
 
 #### The following technologies are featured ####
 - Kubernetes - A cluster to manage the services
@@ -16,8 +16,6 @@ The application consists of the following microservices
 #### Things to know ####
 - This is a work in progress
 - I'm very used to Gitlab CI, but new to Github Actions
-
-
 
 ### Building Front-end ###
 - Be sure to 
