@@ -16,7 +16,7 @@ The application consists of the following microservices
 #### Things to know ####
 - This is a work in progress
 - I'm very used to Gitlab CI, but new to Github Actions
-- The intention is to deploy live using (Cloudflare Tunnel)[https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/deployment-guides/kubernetes/]
+- The intention is to deploy live using [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/deployment-guides/kubernetes/)
   - The hardware that would be used for this broke and needs to be replaced.  
 
 ### Building Front-end ###
