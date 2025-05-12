@@ -18,8 +18,9 @@ The application consists of the following microservices
 - I'm very used to Gitlab CI, but new to Github Actions
 
 ### Building Front-end ###
-- Be sure to 
-
-run npm install next@latest react@latest react-dom@latest
+Be sure to run
+```
+npm install next@latest react@latest react-dom@latest
+```
 
 After cloning
