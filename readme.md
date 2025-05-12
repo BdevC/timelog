@@ -5,18 +5,18 @@ The application consists of the following microservices
 - authentication: Using Google and the recommended approach on Next.js
 - logger: A passthrough to log user data separately from the front-end
 
-
-Things to know.
-- This is a work in progress
-- I'm very used to Gitlab CI, but new to Github Actions
-
-The following technologies are featured
+#### The following technologies are featured ####
 - Kubernetes - A cluster to manage the services
 - Scaffold - as an easy way to manage and develop with Kubernetes
 - Kafka to manage asynchronous communication
 - Docker to containerize the microservices
 - Mongo to store the user data being logged
 - Sign in with Google for Authentication
+
+#### Things to know ####
+- This is a work in progress
+- I'm very used to Gitlab CI, but new to Github Actions
+
 
 
 ### Building Front-end ###
