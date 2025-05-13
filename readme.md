@@ -1,12 +1,19 @@
+
 ### About the Project ###
 This is a demo application to demonstrate fullstack development capabilities. 
-The aplication consists of the following microservices
-- front-end : a UI to allow the user to use the application
-- authentication: Using google and the recommended approach on next.js
-- logger: A passthrough to log user data separately from the front-end
-- Visualizer: a way to present a users information in graph form
+The aplication will start as a clone of the nextjs dashboard tutorial.  once the tutorial is complete it will incorporate K8s and Kafka.
 
-The following technologies are featured
+#### Progress ####
+- [ ] Complete next.js dashboard tutorial
+- [ ] Change as needed for time logging
+- [ ] Containerize as needed
+- [ ] Deploy to simple K8S if not utalized already
+- [ ] Update to utalize kafka
+- [ ] Set up Scalling for K8s
+
+
+
+The following technologies will be featured
 - Kubernetes - A cluster for mange the services
 - Scaffold - as an easy way to manage and develop with Kubernetes
 - Kafka to manage asyncronous communication
@@ -15,6 +22,12 @@ The following technologies are featured
 - Sign in with Google for Authentication
 - some tool to visualize data for reports
 
+### Status ###
+- [ ] (React Foundations course)[https://nextjs.org/learn/react-foundations]
+- [ ] (Dashboard App tutorial)[https://nextjs.org/learn/dashboard-app]
+- [ ] Containerize the application if not done already
+- [ ] Implement Kafka
+- [ ] Move to K8s
 
 
 ### Building Front-end ###
